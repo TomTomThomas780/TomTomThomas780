@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TomTomThomas780
+- 👋 My name is Thomas
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
